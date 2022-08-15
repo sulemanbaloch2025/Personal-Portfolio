@@ -1,0 +1,59 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "Shahbaaz Associates eCommerce App",
+      "description": "React.js, Socket.io",
+      "url": "https://sulemanbaloch2025.github.io/Shahbaaz-Associates-eCommerce-App/"
+    },
+    {
+      "cover": "/portfolio/2/two.png",
+      "title": "RemHives Chat App",
+      "description": "Socket.io, Node.js, MongoDB, Express.js",
+      "url": "https://thawing-plains-12308.herokuapp.com/"
+    },
+    {
+      "cover": "/portfolio/3/three.png",
+      "title": "Notes App",
+      "description": "React.js, CSS",
+      "url": "https://sulemanbaloch2025.github.io/Notes-App/"
+    },
+    {
+      "cover": "/portfolio/4/four.png",
+      "title": "ChemWeb",
+      "description": "React, JSX, Three.js"
+    },
+    {
+      "cover": "/portfolio/5/five.png",
+      "title": "React Password Generator",
+      "description": "React.js, CSS",
+      "url": "https://sulemanbaloch2025.github.io/Password-Generator-App/"
+    },
+    {
+      "cover": "/portfolio/6/six.png",
+      "title": "Pakistani Menu App",
+      "description": "React.js, CSS",
+      "url": "https://sulemanbaloch2025.github.io/Pakistani-Menu-App/"
+    },
+    {
+      "cover": "/portfolio/7/seven.png",
+      "title": "Tic Tac Toe Game",
+      "description": "HTML, JS, CSS"
+    },
+    {
+      "cover": "/portfolio/8/eight.png",
+      "title": "Rock Paper Scissors Game",
+      "description": "HTML, JS, CSS"
+    },
+    {
+      "cover": "/portfolio/9/nine.png",
+      "title": "3D Sphere",
+      "description": "HTML, JS, Three.js"
+    },
+    {
+      "cover": "/portfolio/10/ten.png",
+      "title": "Modal Game",
+      "description": "HTML, JS, CSS"
+    }
+  ]
+}
